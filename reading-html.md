@@ -25,4 +25,4 @@ A generic page division that should only be used if no other, more semantic choi
 
 ###### Footnotes
 
-[1](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories#Flow_content)
+[1] <https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories#Flow_content>
