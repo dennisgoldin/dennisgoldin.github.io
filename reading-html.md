@@ -195,7 +195,7 @@ The HTML [`<span>`](#span) element is a generic inline container for phrasing co
 
   * None.
 
-
+---
 ###### Footnotes
 
 [1]<https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories#Flow_content>
